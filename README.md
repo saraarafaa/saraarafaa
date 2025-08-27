@@ -32,12 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraarafaa&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saraarafaa&layout=compact&theme=radical)  
-
----
 
 ## 📫 Connect with Me  
 
